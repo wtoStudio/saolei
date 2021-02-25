@@ -1,13 +1,9 @@
-package personal.wt.cleaner;
+package personal.wt.saolei;
 
 import javax.swing.*;
 import java.awt.*;
 import java.io.File;
-import java.io.IOException;
 import java.net.URL;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.Enumeration;
 import java.util.Random;
 
 public class Util {
