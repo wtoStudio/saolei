@@ -36,6 +36,7 @@ public class Util {
             System.out.print(randomInt(3) + " ");
             x--;
         }*/
+
         getImage("cross_mark.png");
     }
 }
